@@ -1,1 +1,1 @@
-vate-disclosure@mend.io).
+vate
